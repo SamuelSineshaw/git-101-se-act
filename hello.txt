@@ -1,4 +1,4 @@
-Hello, Ethiopia!
+
 name: Samuel Sineshaw
 email: slimsami2007@gmail.com
     
